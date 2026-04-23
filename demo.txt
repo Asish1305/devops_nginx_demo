@@ -1,2 +1,2 @@
 i am asish panda
-learning devops /githun
+learning devops /github
